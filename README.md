@@ -69,7 +69,7 @@ background: linear-gradient(135deg, #color1 0%, #color2 100%);
 ## 🎯 Estructura del proyecto
 
 ```
-wastemenot-linktree/
+copia gratis-linktree/
 ├── index.html          # Estructura HTML principal
 ├── styles.css          # Estilos CSS elegantes
 ├── script.js           # Funcionalidad JavaScript
@@ -123,3 +123,4 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 
 **¡Disfruta creando tu perfil profesional!** 🚀 
+
