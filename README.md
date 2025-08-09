@@ -1,4 +1,4 @@
-# Perfil de Fundador y CEO - James Willson
+# Perfil de Fundador y CEO - Danilo Moroni
 
 Una página web profesional y elegante para mostrar el perfil de un fundador y CEO, diseñada con un enfoque moderno y ejecutivo.
 
@@ -120,5 +120,6 @@ wastemenot-linktree/
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ---
+
 
 **¡Disfruta creando tu perfil profesional!** 🚀 
